@@ -11,7 +11,7 @@ The dataset should be downloaded from the [UCI ML](http://archive.ics.uci.edu/ml
 Bank-additional-full CSV is our guy.
 
 
-## Running the code
+### Running the code
 * For the notebook, all you need is to upload the csv file to your working environment and execute the cells.
 * For the scripts: 
   * clone the repo.
@@ -19,4 +19,4 @@ Bank-additional-full CSV is our guy.
   * Install the requirements file.
   * On the terminal, run the following command to execute and get the predidctions in a csv file. ```python main.py 'file path'```
   
-  **PS**: You can change the default(MultiLayer Perceptrron) model selected in the main.py.
+ **PS**: You can change the default(MultiLayer Perceptrron) model selected in the main.py.
