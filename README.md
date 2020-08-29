@@ -17,6 +17,7 @@ Bank-additional-full CSV is our guy.
   * clone the repo.
   * Pip install the requirements file.
   * cd into the scripts directory.
-  * On the terminal, run the following command to execute and get the predictions into a csv file. ```python main.py 'file path'```
+  * On the terminal, run the following command to execute and get the predictions into a csv file:
+  ```python main.py 'file path'```
   
  **PS**: You can change the default(MultiLayer Perceptrron) model selected in the main.py.
