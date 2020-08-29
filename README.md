@@ -15,8 +15,9 @@ Bank-additional-full CSV is our guy.
 * For the notebook, all you need is to upload the csv file to your working environment and execute the cells.
 * For the scripts: 
   * clone the repo.
-  * cd into the scripts directry.
-  * Install the requirements file.
-  * On the terminal, run the following command to execute and get the predidctions in a csv file. ```python main.py 'file path'```
+  * Pip install the requirements file.
+  * cd into the scripts directory.
+  * On the terminal, run the following command to execute and get the predictions into a csv file:
+  ```python main.py 'file path'```
   
  **PS**: You can change the default(MultiLayer Perceptrron) model selected in the main.py.
