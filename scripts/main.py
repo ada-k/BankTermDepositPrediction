@@ -38,7 +38,7 @@ def main():
     # modeling
     m = Model(x, y)
     # using mlp (best predictor of the 3)
-    pred = mlp()
+    pred = m.mlp()
     pred_df = pd.DataFrame(pred, columns = ['y']) # save the predictions to a df
     pred_df.to_csv('pred.csv') # save predictions to csv
 
