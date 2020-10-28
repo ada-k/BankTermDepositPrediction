@@ -21,3 +21,27 @@ Bank-additional-full CSV is our guy.
   ```python main.py 'file path'```
   
  **PS**: You can change the default(MultiLayer Perceptrron) model selected in the main.py.
+ 
+ ### Project Structure
+`notebooks`contains the following notebooks:
+
+* eda.ipynb -eda notebook (using plotly)
+* BankOfPortugal1.ipynb - ML/prediction notebook
+
+`licence`License template
+
+`readme`Markdown file giving a brief description of the project and its structure.
+
+`scripts`contains the following python scripts:
+
+* data.py - preprocessing
+* main.py - automation
+* model.py - model class
+* util.py - ____
+
+`story1.pdf`Interim slides
+
+`requirements.txt`Dependenncies
+
+`dashboard plots`Tableau Dashboard plot shots.
+
